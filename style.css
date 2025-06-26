@@ -4,3 +4,7 @@ color: white;
 font-family: "Chakra Petch", sans-serif;
 margin: 0px;
 }
+
+header {
+border: solid 2px rgb(42, 122, 228);
+}
