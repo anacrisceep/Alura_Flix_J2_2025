@@ -7,4 +7,7 @@ margin: 0px;
 
 header {
 border: groove 10px rgb(182, 200, 224);
+padding: 25px;
+font-size: 32px;
+color: rgb(8, 20, 87);
 }
