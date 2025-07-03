@@ -12,6 +12,10 @@ font-size: 32px;
 color: rgb(201, 205, 228);
 }
 
+.chamada-texto {
+margin-right: 5%;
+}
+
 section {
 background: rgb(201, 205, 228);
 padding-bottom: 80px;
