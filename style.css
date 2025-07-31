@@ -23,10 +23,22 @@ padding-top: 80px;
 display: flex;
 justify-content: center;
 }
-
-h1{ 
-    font-size: 30px;
- }
- p{ 
+h1 {
+    font-size: 40px;
+}
+p {
     font-size: 20px;
- } 
+}
+img {
+    height: 200px;
+}
+.categoria-videos {
+    display: flex;
+    overflow-x: auto;
+    gap: 10px;
+}
+
+.categoria {
+    padding-left: 20px;
+    padding-right: 20px;
+}
